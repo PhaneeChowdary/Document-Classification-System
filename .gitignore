@@ -1,0 +1,6 @@
+result.txt
+gpuTest.py
+mlruns/
+document_env/
+checkpoints/
+mlflow.db
